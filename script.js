@@ -1,5 +1,5 @@
 const boardElement = document.getElementById('bingo-board');
-const totalNumbers = 75;
+const totalNumbers = 100;
 
 // Create the board
 for (let i = 1; i <= totalNumbers; i++) {
